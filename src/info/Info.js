@@ -41,20 +41,20 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in the India'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Upcoming Software Engineer at Natwest Group"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "kiranmoy2002@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://facebook.com/saha-kiranmoy",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
@@ -82,7 +82,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Kiranmoy. I'm an incoming software engineer at Natwest Group. I studied CompSci at IIEST Shibpur, I am still figuring out what I want to do as a tech path, I'm john of all trades and have interest in Cyber Security!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
