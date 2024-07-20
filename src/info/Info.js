@@ -59,7 +59,7 @@ export const info = {
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://instagram.com/saha.kiranmoy",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
