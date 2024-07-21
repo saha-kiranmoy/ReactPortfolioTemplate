@@ -64,17 +64,17 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/saha-kiranmoy/",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/saha-kiranmoy/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://x.com/sahakiranmoy",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
