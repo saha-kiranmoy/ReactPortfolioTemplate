@@ -74,7 +74,11 @@ export const info = {
             label: 'linkedin'
         },
         {
+<<<<<<< HEAD
             link: "https://x.com/sahakiranmoy",
+=======
+            link: "https://twitter.comhttps://x.com/sahakiranmoy",
+>>>>>>> 4cbd256149379fa4224aaee276805d81fed886d0
             icon: "fa fa-twitter",
             label: 'twitter'
         }
