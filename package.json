@@ -33,7 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
 
-    "predeploy": "echo 'www.kiranmoy.com' > public/CNAME && npm run build",
+    "predeploy": "echo 'kiranmoy.com' > public/CNAME && npm run build",
     "deploy": "gh-pages -d build" 
   },
   "eslintConfig": {
